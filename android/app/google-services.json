@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947605785029",
+    "firebase_url": "https://lovegrass-d7bfd.firebaseio.com",
+    "project_id": "lovegrass-d7bfd",
+    "storage_bucket": "lovegrass-d7bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947605785029:android:7bdbd0b72366cdf7a023ac",
+        "android_client_info": {
+          "package_name": "flutterss.love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947605785029-i8dlvi47ehdt1qicsfmd65pc3do67n3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutterss.love",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "947605785029-qml33bv8cmdeje75ffu9vp25ujbm14gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU35h1GyZO41hP-R53La7n5RDTieGb71s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947605785029-qml33bv8cmdeje75ffu9vp25ujbm14gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
